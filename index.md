@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Home Page</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+</head>
+<body>
+		<aside>
+		<a href="http://www.gyokoshoujo.com" target="_blank">
+			<img src="banner1.png" alt="Gyoko Shoujo! Comic Link">
+		</a>
+		<a href="http://keroanne.storenvy.com" target="_blank">
+			<img src="banner2.png" alt="Kero Shop link">
+		</a>
+	</aside>
 
-You can use the [editor on GitHub](https://github.com/Keroanne/Keroanne-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	<header>
+			<div class:logo><a href="HomePage.html"><img src="Logo2-01.png" alt="Keroanne Logo"></a></div>
+			<h1 style="font-size:5.5vw">Connect</h1>
+			<h2 style="font-size:3.5vw">Where to find me on the web!</h2>
+			<nav>
+				<a href="HomePage.html" style="font-size:2.5vw">Home</a>
+				<a href="PracticePortfolio.html" style="font-size:2.5vw"> Artwork</a>
+				<a href="AboutMe.html" style="font-size:2.5vw">About</a>
+				<a href="Connect.html" style="font-size:2.5vw">Connect</a>
+			</nav>
+	</header>
+			<div class="intro" class:intro><h3 style="font-size:2vw"><img src="IMG_3220.JPG" alt="Image of artist" ALIGN="right" class="myface">Hello, I am Keroanne, and I love to create artwork digitally.  I prefer to specialize in illustration and sequential art, but as a digital media specialist, I can do all sorts of things for you. Specifically, photography, photo manipulation, minor web design, animations, graphic design, and even more.  <br>Feel free to get in contact with me, as I'd love to work with you!</h3></div>
+</body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Keroanne/Keroanne-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	<footer>
+		<p class="copywrite" style="font-size:1.5vw"> Ⓒ Keroanne 2018</p>
+		<h6 style="font-size:.8vw">The content on this website is protected by US and International copyright laws. Reproduction, reposting, or use of the content on this website of any form is strictly prohibited unless written consent is given by the creator/artist.  Any persons who do not agree to these terms and compy by them will be held to the fullest extent of the law.</h6>
+	</footer>
+		</html>
